@@ -1,8 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src="https://res.cloudinary.com/dz5ppacuo/image/upload/v1466341001/csharp-min_buiizq.png">
-    <br><br>
     <b>Projeto De Refatoração!! :hammer:</b>  
-    <br>
 </h3>
 
 # Índice
